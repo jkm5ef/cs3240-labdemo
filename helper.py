@@ -1,0 +1,2 @@
+greeting(msg):
+    print("hello")
